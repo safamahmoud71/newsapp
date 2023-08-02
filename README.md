@@ -13,6 +13,7 @@ Welcome to NewsApp! This is a simple Flutter app that displays news articles fro
 - show Business news
 - show sports news
 - show science news
+- search for specific news
 
 ## Screenshots
 
