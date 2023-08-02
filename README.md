@@ -2,15 +2,25 @@
 
 A new Flutter project.
 
+# NewsApp
+
+Welcome to NewsApp! This is a simple Flutter app that displays news articles from various sources.
+
+## Features
+
+- View latest news articles from different sources
+- Read full articles within the app
+- show Business news
+- show sports news
+- show science news
+
+## Screenshots
+
+![WhatsApp Image 2023-08-02 at 15 45 02](https://github.com/safamahmoud71/newsapp/assets/93884038/504a3bc1-7c30-4e9b-91c2-af7a3ddca60e)
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ensure you have Flutter and Dart installed on your machine.
+2. Clone this repository:
